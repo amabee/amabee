@@ -5,7 +5,3 @@
 - 📫 How to reach me Just contact me on Facebook :) LINK: https://www.facebook.com/cocomelon.pan
 - 📫 P.S I'm not that good yet but I hope I will be as good as you guys out there :)
 
-<!---
-amabee/amabee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

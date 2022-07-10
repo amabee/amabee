@@ -1,3 +1,4 @@
+[![MasterHead]header.png](your GitHub link)
 <h1 align="center">Hi 👋, I'm Paul Sho / Amabee</h1>
 <h3 align="center">An aspiring web developer from the Philippines</h3>
 

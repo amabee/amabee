@@ -1,12 +1,11 @@
-[![MasterHead]header.png](your GitHub link)
-<h1 align="center">Hi 👋, I'm Paul Sho / Amabee</h1>
-<h3 align="center">An aspiring web developer from the Philippines</h3>
+![MasterHead](https://github.com/amabee/amabee/blob/main/header.png)
+<h2 align="center"><b>AN ASPIRING WEB DEVELOPER FROM PHILIPPINES</b></h2>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amabee&label=Profile%20views&color=0e75b6&style=flat" alt="amabee" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amabee" alt="amabee" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/@yoshino.ck" target="blank"><img src="https://img.shields.io/twitter/follow/@yoshino.ck?logo=twitter&style=for-the-badge" alt="@yoshino.ck" /></a> </p>
+<p align="left"> <a href="https://twitter.com/@yoshino_ck" target="blank"><img src="https://img.shields.io/twitter/follow/@yoshino.ck?logo=twitter&style=for-the-badge" alt="@yoshino_ck" /></a> </p>
 
 - 🔭 I’m currently working on **MemeHub**
 

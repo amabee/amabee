@@ -2,7 +2,8 @@
 # 💫 About Me:
 🔭 I’m currently working on memehub<br>👯 I’m looking to collaborate on any c# projects<br>🤝 I’m looking for help with php and javascript<br>🌱 I’m currently learning reactjs and php<br>💬 Ask me about anything<br>⚡ Fun fact: I love gaming and wanted to be a game developer<br>to create a mobile version or Rust game
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/468657454046248972)](https://discord.com/users/468657454046248972)
+
+[![Discord Presence](https://lanyard.kyrie25.me/api/468657454046248972?theme=dark&animated=true&idleMessage="'Checkmate'%20doesn't%20mean%20you've%20simply%20cornered%20the%20enemy%20king.%20It's%20a%20declaration%20that%20the%20enemy%20king%20is%20yours.%20That's%20why%20I%20said%20it%20the%20first%20time%20I%20met%20you.%20'Checkmate'%0D%0A-Sora)](https://discord.com/users/468657454046248972?)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cocomelon.pan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelzm_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@midormeep0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yoshino.ck) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/UC1bv7o_rnyVP9P_8VpGNYLw)

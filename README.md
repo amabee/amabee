@@ -1,6 +1,6 @@
 ![MasterHead](https://github.com/amabee/amabee/blob/main/Olivia.png)
 # 💫 About Me:
-🔭 I’m currently working on memehub<br>👯 I’m looking to collaborate on any c# projects<br>🤝 I’m looking for help with php and javascript<br>🌱 I’m currently learning reactjs and php<br>💬 Ask me about anything<br>⚡ Fun fact: I love gaming and wanted to be a game developer<br>to create a mobile version or Rust game
+🔭 I’m currently working on DarkSigil<br>👯 I’m looking to collaborate on any c# projects<br>🤝 I’m looking for help with php and javascript<br>🌱 I’m currently learning reactjs and php<br>💬 Ask me about anything<br>⚡ Fun fact: I love gaming and wanted to be a game developer<br>to create a mobile version or Rust game
 
 
 [![Discord Presence](https://lanyard.kyrie25.me/api/468657454046248972?theme=dark&animated=true&idleMessage="'Checkmate'%20doesn't%20mean%20you've%20simply%20cornered%20the%20enemy%20king.%20It's%20a%20declaration%20that%20the%20enemy%20king%20is%20yours.%20That's%20why%20I%20said%20it%20the%20first%20time%20I%20met%20you.%20'Checkmate'%0D%0A-Sora)](https://discord.com/users/468657454046248972?)

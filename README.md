@@ -1,44 +1,187 @@
-![MasterHead](https://github.com/amabee/amabee/blob/main/Olivia.png)
-# 💫 About Me:
-🔭 I’m currently working on DarkSigil<br>👯 I’m looking to collaborate on any c# projects<br>🤝 I’m looking for help with php and javascript<br>🌱 I’m currently learning reactjs and php<br>💬 Ask me about anything<br>⚡ Fun fact: I love gaming and wanted to be a game developer<br>to create a mobile version or Rust game
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0400,40:3d1900,70:7a3d00,100:C8920A&height=240&section=header&text=CodeInvoker&fontSize=80&fontColor=D4AF37&fontAlignY=42&desc=Paul%20Lodicakes%20%E2%80%A2%20Turning%20code%20into%20spells&descSize=18&descAlignY=65&descColor=c8a020&animation=twinkling" width="100%"/>
 
-[![Discord Presence](https://lanyard.kyrie25.me/api/468657454046248972?theme=dark&animated=true&idleMessage="'Checkmate'%20doesn't%20mean%20you've%20simply%20cornered%20the%20enemy%20king.%20It's%20a%20declaration%20that%20the%20enemy%20king%20is%20yours.%20That's%20why%20I%20said%20it%20the%20first%20time%20I%20met%20you.%20'Checkmate'%0D%0A-Sora)](https://discord.com/users/468657454046248972?)
+</div>
 
-## MY FARM
-<a href="https://github.com/devxb/gitanimals">
-<img
-  src="https://render.gitanimals.org/farms/amabee"
-  width="600"
-  height="300"
-/>
-</a>
+<div align="center">
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/cocomelon.pan) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/angelzm_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@midormeep0) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/yoshino.ck) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/UC1bv7o_rnyVP9P_8VpGNYLw)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2800&pause=600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=65&lines=%E2%9A%97%EF%B8%8F+Quas.+Wex.+Exort.+%E2%80%94+INVOKE.;%F0%9F%8F%86+Full-Stack+Engineer+%7C+Dota+2+Strategist+%7C+%F0%9F%87%B5%F0%9F%87%AD+Philippines)](https://git.io/typing-svg)
 
+</div>
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=amabee&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=amabee&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=amabee&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=amabee&theme=discord&no-frame=false&no-bg=false&margin-w=4)
+<div align="center">
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B6914&label=VISITORS+TO+MY+ANCIENT)
+&nbsp;
+![Status](https://img.shields.io/badge/STATUS-INVOKING-D4AF37?style=for-the-badge&labelColor=1a0800)
+&nbsp;
+![MMR](https://img.shields.io/badge/CODE_MMR-DIVINE-D4AF37?style=for-the-badge&labelColor=1a0800)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=amabee&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amabee&show_icons=true&locale=en&layout=compact" alt="amabee" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amabee&show_icons=true&locale=en" alt="amabee" /></p>
+*"From the crucible of a thousand refactors, I arose. What took others a lifetime,*
+*I mastered before the first deploy."*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amabee&" alt="amabee" /></p>
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+## 🧙‍♂️ The Invoker's Chronicle
+
+```python
+invoker = {
+    "name"        :  "Paul 'CodeInvoker' Lodicakes",
+    "location"    :  "📍 Philippines",
+    "role"        :  "Full-Stack Software Engineer",
+    "playstyle"   :  "Drafting elegant systems, farming clean code, winning teamfights",
+    "spells"      :  ["Frontend Mastery 🔵", "Backend Architecture 🔴", "System Design 🟢"],
+    "lane"        :  "Mid (Solo self-sufficient, rotates when needed)",
+    "ward_vision" :  "Always seeing 5 steps ahead 👁️",
+    "current_quest":  "Pushing MMR in SaaS and automation engines",
+}
+```
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+---
+
+## ⚗️ Spell Repertoire — Tech Stack
+
+> *Three orbs. Ten spells. Infinite solutions.*
+
+<table>
+<tr>
+<td align="center" valign="top" width="33%">
+
+### 🔵 Quas — Intelligence
+*Cold clarity. Crystalline precision.*
+
+![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=00D9FF)
+![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=EEEEEE)
+![TypeScript](https://img.shields.io/badge/TypeScript-0a1a30?style=flat-square&logo=typescript&logoColor=3B82F6)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a1e26?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
+![Vite](https://img.shields.io/badge/Vite-1a0d38?style=flat-square&logo=vite&logoColor=BD34FE)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+### 🟢 Wex — Agility
+*Speed. Adaptability. Evasion.*
+
+![Git](https://img.shields.io/badge/Git-1c0800?style=flat-square&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=EEEEEE)
+![Docker](https://img.shields.io/badge/Docker-0a1826?style=flat-square&logo=docker&logoColor=2496ED)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=EEEEEE)
+![n8n](https://img.shields.io/badge/n8n_Workflows-1a0809?style=flat-square&logo=n8n&logoColor=EA4B71)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+### 🔴 Exort — Strength
+*Raw power. Overwhelming force.*
+
+![Node.js](https://img.shields.io/badge/Node.js-0d1a0d?style=flat-square&logo=nodedotjs&logoColor=339933)
+![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=EEEEEE)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1220?style=flat-square&logo=postgresql&logoColor=4169E1)
+![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=EEEEEE)
+![Auth](https://img.shields.io/badge/Auth_%26_Security-1a0800?style=flat-square&logo=jsonwebtokens&logoColor=D4AF37)
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📊 Match History — GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=C8A020&border_color=3d2000&bg_color=0d0500&text_color=b89a30&ring_color=D4AF37" height="160" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d0500&ring=D4AF37&fire=FF8C00&currStreakLabel=D4AF37&sideLabels=C8A020&border=3d2000&dates=8a7020" height="160" alt="GitHub Streak"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=D4AF37&border_color=3d2000&bg_color=0d0500&text_color=b89a30" alt="Top Languages"/>
+
+</div>
+
+---
+
+## ⚔️ Current Game Plan — Active Quests
+
+```
+◈ QUEST LOG ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+
+  ▓▓▓▓▓▓▓▓▓░   Building scalable SaaS systems              [In Progress]
+  ▓▓▓▓▓▓▓░░░   Monolith → Microservices architecture       [In Progress]
+  ▓▓▓▓▓▓░░░░   Custom automation engine (n8n-style 👀)     [In Progress]
+  ▓▓▓▓▓▓▓▓░░   Deepening system design mastery             [In Progress]
+  ▓▓▓▓░░░░░░   Mastering the dark arts of DevOps           [Ongoing]
+
+◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+```
+
+---
+
+## 🏆 Hall of the Aegis — Achievements
+
+<div align="center">
+
+| 🏅 | Achievement | Citation |
+|:---:|---|---|
+| 🥇 | **Production Slayer** | Built and shipped full-stack systems that survive real traffic |
+| 🧠 | **Architect of the Ancients** | System design thinker — monolith-to-microservice mindset |
+| ⚡ | **Fast Farmer** | Fast learner, fast shipper. No idle farming tolerated |
+| 🛡️ | **Pos. 5 Coder** | Defensive code, edge cases handled, teammates' backs always covered |
+| 🗺️ | **Map Controller** | Vision beyond the immediate sprint — always planning ahead |
+| 🔮 | **The Invoker's Discipline** | Mastering multiple stacks — never a one-trick hero |
+
+</div>
+
+---
+
+## 🤝 Draft Me Into Your Team
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d0500)](https://github.com/YOUR_USERNAME)
+&nbsp;&nbsp;
+[![Email](https://img.shields.io/badge/Email-your@email.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d0500)](mailto:your@email.com)
+
+*"Whether it's a startup's core infrastructure or a moonshot side quest — I show up, I draft well, and I win."*
+
+</div>
+
+---
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<div align="center">
+
+## 🧙‍♂️ The Invoker's Closing Rite
+
+> *"A good developer farms code.*
+> *A great developer controls the map.*
+> **A legendary developer — shapes the meta."**
+
+<br/>
+
+⭐ *Starring a repo is like giving the Aegis after a clutch fight. Small gesture. Means everything.*
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8920A,30:7a3d00,60:3d1900,100:0a0400&height=140&section=footer" width="100%"/>
+
+</div>

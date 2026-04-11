@@ -1,12 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0400,40:3d1900,70:7a3d00,100:C8920A&height=240&section=header&text=CodeInvoker&fontSize=80&fontColor=D4AF37&fontAlignY=42&desc=Paul%20Lodicakes%20%E2%80%A2%20Turning%20code%20into%20spells&descSize=18&descAlignY=65&descColor=c8a020&animation=twinkling" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070312,35:1a0535,65:3d1070,100:7B2FBE&height=260&section=header&text=Amabee&fontSize=80&fontColor=D4AF37&fontAlignY=40&desc=Paul%20Sho%20%E2%80%A2%20Turning%20code%20into%20spells&descSize=18&descAlignY=62&descColor=c8a020&animation=twinkling" width="100%"/>
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2800&pause=600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=true&repeat=true&width=680&height=65&lines=%E2%9A%97%EF%B8%8F+Quas.+Wex.+Exort.+%E2%80%94+INVOKE.;%F0%9F%8F%86+Full-Stack+Engineer+%7C+Dota+2+Strategist+%7C+%F0%9F%87%B5%F0%9F%87%AD+Philippines)](https://git.io/typing-svg)
+<img src="https://images.steamusercontent.com/ugc/167032108249780865/D92879E21E2B15A300CE46673FD015B728B93504/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="150" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"/>
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2800&pause=600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=%F0%9F%8F%86+Full-Stack+Web+Developer+%7C+Dota+2+Player+%7C+%F0%9F%87%B5%F0%9F%87%AD+Philippines)](https://git.io/typing-svg)
+
+</div>
+
+<div align="center">
+
+![Quas Wex Exort](https://img.shields.io/badge/%E2%9A%A1_Quas-%C2%B7-87CEEB?style=flat-square&labelColor=0a0520&color=0a0520)
+![Wex](https://img.shields.io/badge/Wex-%C2%B7-FF69B4?style=flat-square&labelColor=0a0520&color=0a0520)
+![Exort](https://img.shields.io/badge/Exort-%E2%80%94_INVOKE-FF8C00?style=flat-square&labelColor=0a0520&color=0a0520)
 
 </div>
 
@@ -14,11 +28,11 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=8B6914&label=VISITORS+TO+MY+ANCIENT)
+![Profile Views](https://komarev.com/ghpvc/?username=amabee&style=for-the-badge&color=3d1070&label=VISITORS+TO+MY+ANCIENT)
 &nbsp;
-![Status](https://img.shields.io/badge/STATUS-INVOKING-D4AF37?style=for-the-badge&labelColor=1a0800)
+![Status](https://img.shields.io/badge/STATUS-INVOKING-D4AF37?style=for-the-badge&labelColor=1a0535)
 &nbsp;
-![MMR](https://img.shields.io/badge/CODE_MMR-DIVINE-D4AF37?style=for-the-badge&labelColor=1a0800)
+![MMR](https://img.shields.io/badge/CODE_MMR-DIVINE-D4AF37?style=for-the-badge&labelColor=1a0535)
 
 </div>
 
@@ -33,11 +47,11 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ## 🧙‍♂️ The Invoker's Chronicle
 
-```python
+```
 invoker = {
     "name"        :  "Paul 'CodeInvoker' Lodicakes",
     "location"    :  "📍 Philippines",
@@ -50,7 +64,7 @@ invoker = {
 }
 ```
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
 
 ---
 
@@ -62,38 +76,38 @@ invoker = {
 <tr>
 <td align="center" valign="top" width="33%">
 
-### 🔵 Quas — Intelligence
-*Cold clarity. Crystalline precision.*
+### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Magus_Apex_Quas_icon.png/revision/latest?cb=20150711034646" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"> Quas — Intelligence
+<sub><i>Sky-blue clarity. Crystalline precision.</i></sub>
 
-![React](https://img.shields.io/badge/React-0a1628?style=flat-square&logo=react&logoColor=00D9FF)
-![Next.js](https://img.shields.io/badge/Next.js-0d0d0d?style=flat-square&logo=nextdotjs&logoColor=EEEEEE)
-![TypeScript](https://img.shields.io/badge/TypeScript-0a1a30?style=flat-square&logo=typescript&logoColor=3B82F6)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-0a1e26?style=flat-square&logo=tailwindcss&logoColor=06B6D4)
-![Vite](https://img.shields.io/badge/Vite-1a0d38?style=flat-square&logo=vite&logoColor=BD34FE)
-
-</td>
-<td align="center" valign="top" width="33%">
-
-### 🟢 Wex — Agility
-*Speed. Adaptability. Evasion.*
-
-![Git](https://img.shields.io/badge/Git-1c0800?style=flat-square&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=EEEEEE)
-![Docker](https://img.shields.io/badge/Docker-0a1826?style=flat-square&logo=docker&logoColor=2496ED)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square&logo=vercel&logoColor=EEEEEE)
-![n8n](https://img.shields.io/badge/n8n_Workflows-1a0809?style=flat-square&logo=n8n&logoColor=EA4B71)
+![React](https://img.shields.io/badge/React-000d1a?style=flat-square&logo=react&logoColor=87CEEB)
+![Next.js](https://img.shields.io/badge/Next.js-050510?style=flat-square&logo=nextdotjs&logoColor=87CEEB)
+![TypeScript](https://img.shields.io/badge/TypeScript-000d18?style=flat-square&logo=typescript&logoColor=87CEEB)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000e14?style=flat-square&logo=tailwindcss&logoColor=87CEEB)
+![Vite](https://img.shields.io/badge/Vite-080520?style=flat-square&logo=vite&logoColor=87CEEB)
 
 </td>
 <td align="center" valign="top" width="33%">
 
-### 🔴 Exort — Strength
-*Raw power. Overwhelming force.*
+### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Magus_Apex_Wex_icon.png/revision/latest?cb=20150711034653" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;">  Wex — Agility
+<sub><i>Pink lightning. Speed & evasion.</i></sub>
 
-![Node.js](https://img.shields.io/badge/Node.js-0d1a0d?style=flat-square&logo=nodedotjs&logoColor=339933)
-![Express](https://img.shields.io/badge/Express-1a1a1a?style=flat-square&logo=express&logoColor=EEEEEE)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a1220?style=flat-square&logo=postgresql&logoColor=4169E1)
-![Prisma](https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=EEEEEE)
-![Auth](https://img.shields.io/badge/Auth_%26_Security-1a0800?style=flat-square&logo=jsonwebtokens&logoColor=D4AF37)
+![Git](https://img.shields.io/badge/Git-0f0010?style=flat-square&logo=git&logoColor=FF69B4)
+![GitHub](https://img.shields.io/badge/GitHub-08000f?style=flat-square&logo=github&logoColor=FF69B4)
+![Docker](https://img.shields.io/badge/Docker-070010?style=flat-square&logo=docker&logoColor=FF69B4)
+![Vercel](https://img.shields.io/badge/Vercel-080010?style=flat-square&logo=vercel&logoColor=FF69B4)
+![n8n](https://img.shields.io/badge/n8n_Workflows-0f000e?style=flat-square&logo=n8n&logoColor=FF69B4)
+
+</td>
+<td align="center" valign="top" width="33%">
+
+### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Magus_Apex_Exort_icon.png/revision/latest?cb=20150711034659" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"> Exort — Strength
+<sub><i>Orange fire. Raw & overwhelming force.</i></sub>
+
+![Node.js](https://img.shields.io/badge/Node.js-100800?style=flat-square&logo=nodedotjs&logoColor=FF8C00)
+![Express](https://img.shields.io/badge/Express-100700?style=flat-square&logo=express&logoColor=FF8C00)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0600?style=flat-square&logo=postgresql&logoColor=FF8C00)
+![Prisma](https://img.shields.io/badge/Prisma-0a0600?style=flat-square&logo=prisma&logoColor=FF8C00)
+![Auth](https://img.shields.io/badge/Auth_%26_Security-100800?style=flat-square&logo=jsonwebtokens&logoColor=FF8C00)
 
 </td>
 </tr>
@@ -105,33 +119,34 @@ invoker = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=C8A020&border_color=3d2000&bg_color=0d0500&text_color=b89a30&ring_color=D4AF37" height="160" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amabee&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=C8A020&border_color=3d1070&bg_color=0d0520&text_color=b89a30&ring_color=D4AF37" height="160" alt="GitHub Stats"/>
 &nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&background=0d0500&ring=D4AF37&fire=FF8C00&currStreakLabel=D4AF37&sideLabels=C8A020&border=3d2000&dates=8a7020" height="160" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com/?user=amabee&theme=tokyonight&background=0d0520&ring=D4AF37&fire=FF8C00&currStreakLabel=D4AF37&sideLabels=C8A020&border=3d1070&dates=8a7020" height="160" alt="GitHub Streak"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&title_color=D4AF37&border_color=3d2000&bg_color=0d0500&text_color=b89a30" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amabee&layout=compact&theme=tokyonight&title_color=D4AF37&border_color=3d1070&bg_color=0d0520&text_color=b89a30" alt="Top Languages"/>
 
 </div>
 
 ---
 
 ## ⚔️ Current Game Plan — Active Quests
-
-```
 ◈ QUEST LOG ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
 
-  ▓▓▓▓▓▓▓▓▓░   Building scalable SaaS systems              [In Progress]
-  ▓▓▓▓▓▓▓░░░   Monolith → Microservices architecture       [In Progress]
-  ▓▓▓▓▓▓░░░░   Custom automation engine (n8n-style 👀)     [In Progress]
-  ▓▓▓▓▓▓▓▓░░   Deepening system design mastery             [In Progress]
-  ▓▓▓▓░░░░░░   Mastering the dark arts of DevOps           [Ongoing]
+▓▓▓▓▓▓▓▓▓░   Building scalable SaaS systems              [In Progress]
+
+▓▓▓▓▓▓▓░░░   Monolith → Microservices architecture       [In Progress]
+
+▓▓▓▓▓▓░░░░   Custom automation engine (n8n-style 👀)     [In Progress]
+
+▓▓▓▓▓▓▓▓░░   Deepening system design mastery             [In Progress]
+
+▓▓▓▓░░░░░░   Mastering the dark arts of DevOps           [Ongoing]
 
 ◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
-```
 
 ---
 
@@ -156,9 +171,9 @@ invoker = {
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-YOUR__USERNAME-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d0500)](https://github.com/YOUR_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-amabee-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d0520)](https://github.com/amabee)
 &nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/Email-your@email.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d0500)](mailto:your@email.com)
+[![Email](https://img.shields.io/badge/cyberkiller.ck@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d0520)](mailto:cyberkiller.ck@gmail.com)
 
 *"Whether it's a startup's core infrastructure or a moonshot side quest — I show up, I draft well, and I win."*
 
@@ -166,7 +181,8 @@ invoker = {
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+
 
 <div align="center">
 
@@ -182,6 +198,6 @@ invoker = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:C8920A,30:7a3d00,60:3d1900,100:0a0400&height=140&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,35:3d1070,65:1a0535,100:070312&height=140&section=footer" width="100%"/>
 
 </div>

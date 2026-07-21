@@ -1,203 +1,177 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070312,35:1a0535,65:3d1070,100:7B2FBE&height=260&section=header&text=Amabee&fontSize=80&fontColor=D4AF37&fontAlignY=40&desc=Paul%20Sho%20%E2%80%A2%20Turning%20code%20into%20spells&descSize=18&descAlignY=62&descColor=c8a020&animation=twinkling" width="100%"/>
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBma2Q2cnc5b2Y3NXh0aXAzMmlvaGk5djNhaXM3dGJsdGs0Y3FqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="720"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://images.steamusercontent.com/ugc/167032108249780865/D92879E21E2B15A300CE46673FD015B728B93504/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="150" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"/>
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cinzel+Decorative&weight=700&size=15&duration=2800&pause=600&color=D4AF37&background=00000000&center=true&vCenter=true&multiline=false&repeat=true&width=680&height=40&lines=%F0%9F%8F%86+Full-Stack+Web+Developer+%7C+Dota+2+Player+%7C+%F0%9F%87%B5%F0%9F%87%AD+Philippines)](https://git.io/typing-svg)
-
-</div>
-
-<div align="center">
-
-![Quas Wex Exort](https://img.shields.io/badge/%E2%9A%A1_Quas-%C2%B7-87CEEB?style=flat-square&labelColor=0a0520&color=0a0520)
-![Wex](https://img.shields.io/badge/Wex-%C2%B7-FF69B4?style=flat-square&labelColor=0a0520&color=0a0520)
-![Exort](https://img.shields.io/badge/Exort-%E2%80%94_INVOKE-FF8C00?style=flat-square&labelColor=0a0520&color=0a0520)
-
-</div>
-
-<br/>
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=amabee&style=for-the-badge&color=3d1070&label=VISITORS+TO+MY+ANCIENT)
-&nbsp;
-![Status](https://img.shields.io/badge/STATUS-INVOKING-D4AF37?style=for-the-badge&labelColor=1a0535)
-&nbsp;
-![MMR](https://img.shields.io/badge/CODE_MMR-DIVINE-D4AF37?style=for-the-badge&labelColor=1a0535)
-
-</div>
-
----
-
-<div align="center">
-
-*"From the crucible of a thousand refactors, I arose. What took others a lifetime,*
-*I mastered before the first deploy."*
-
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-## 🧙‍♂️ The Invoker's Chronicle
+# 💠 Great Sage Report
 
 ```
-invoker = {
-    "name"        :  "Paul 'CodeInvoker' Lodicakes",
-    "location"    :  "📍 Philippines",
-    "role"        :  "Full-Stack Software Engineer",
-    "playstyle"   :  "Drafting elegant systems, farming clean code, winning teamfights",
-    "spells"      :  ["Frontend Mastery 🔵", "Backend Architecture 🔴", "System Design 🟢"],
-    "lane"        :  "Mid (Solo self-sufficient, rotates when needed)",
-    "ward_vision" :  "Always seeing 5 steps ahead 👁️",
-    "current_quest":  "Pushing MMR in SaaS and automation engines",
-}
+Analysis Complete.
+
+User        : John Paul
+Occupation     : Full Stack Developer
+Affiliation    : Philippines 🇵🇭
+Specialization : Backend Development / Fullstack Development
+Status         : Active
 ```
 
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
+Laravel • Flutter • PHP • JavaScript • MySQL • Linux
 
----
-
-## ⚗️ Spell Repertoire — Tech Stack
-
-> *Three orbs. Ten spells. Infinite solutions.*
-
-<table>
-<tr>
-<td align="center" valign="top" width="33%">
-
-### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/b/ba/Magus_Apex_Quas_icon.png/revision/latest?cb=20150711034646" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"> Quas — Intelligence
-<sub><i>Sky-blue clarity. Crystalline precision.</i></sub>
-
-![React](https://img.shields.io/badge/React-000d1a?style=flat-square&logo=react&logoColor=87CEEB)
-![Next.js](https://img.shields.io/badge/Next.js-050510?style=flat-square&logo=nextdotjs&logoColor=87CEEB)
-![TypeScript](https://img.shields.io/badge/TypeScript-000d18?style=flat-square&logo=typescript&logoColor=87CEEB)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000e14?style=flat-square&logo=tailwindcss&logoColor=87CEEB)
-![Vite](https://img.shields.io/badge/Vite-080520?style=flat-square&logo=vite&logoColor=87CEEB)
-
-</td>
-<td align="center" valign="top" width="33%">
-
-### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/3/32/Magus_Apex_Wex_icon.png/revision/latest?cb=20150711034653" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;">  Wex — Agility
-<sub><i>Pink lightning. Speed & evasion.</i></sub>
-
-![Git](https://img.shields.io/badge/Git-0f0010?style=flat-square&logo=git&logoColor=FF69B4)
-![GitHub](https://img.shields.io/badge/GitHub-08000f?style=flat-square&logo=github&logoColor=FF69B4)
-![Docker](https://img.shields.io/badge/Docker-070010?style=flat-square&logo=docker&logoColor=FF69B4)
-![Vercel](https://img.shields.io/badge/Vercel-080010?style=flat-square&logo=vercel&logoColor=FF69B4)
-![n8n](https://img.shields.io/badge/n8n_Workflows-0f000e?style=flat-square&logo=n8n&logoColor=FF69B4)
-
-</td>
-<td align="center" valign="top" width="33%">
-
-### <img src="https://static.wikia.nocookie.net/dota2_gamepedia/images/2/21/Magus_Apex_Exort_icon.png/revision/latest?cb=20150711034659" width="50" style="border-radius:20%;border:3px solid #D4AF37;margin:12px 0;"> Exort — Strength
-<sub><i>Orange fire. Raw & overwhelming force.</i></sub>
-
-![Node.js](https://img.shields.io/badge/Node.js-100800?style=flat-square&logo=nodedotjs&logoColor=FF8C00)
-![Express](https://img.shields.io/badge/Express-100700?style=flat-square&logo=express&logoColor=FF8C00)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0600?style=flat-square&logo=postgresql&logoColor=FF8C00)
-![Prisma](https://img.shields.io/badge/Prisma-0a0600?style=flat-square&logo=prisma&logoColor=FF8C00)
-![Auth](https://img.shields.io/badge/Auth_%26_Security-100800?style=flat-square&logo=jsonwebtokens&logoColor=FF8C00)
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 Match History — GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=amabee&show_icons=true&theme=tokyonight&title_color=D4AF37&icon_color=C8A020&border_color=3d1070&bg_color=0d0520&text_color=b89a30&ring_color=D4AF37" height="160" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://streak-stats.demolab.com/?user=amabee&theme=tokyonight&background=0d0520&ring=D4AF37&fire=FF8C00&currStreakLabel=D4AF37&sideLabels=C8A020&border=3d1070&dates=8a7020" height="160" alt="GitHub Streak"/>
+![](https://komarev.com/ghpvc/?username=amabee&style=for-the-badge)
 
 </div>
 
-<div align="center">
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amabee&layout=compact&theme=tokyonight&title_color=D4AF37&border_color=3d1070&bg_color=0d0520&text_color=b89a30" alt="Top Languages"/>
+# 📖 Analysis
 
-</div>
+> "Every system starts as an idea. Every improvement starts with one commit."
+
+I'm a software developer who enjoys building applications that solve real-world problems.
+
+Most of my work revolves around backend development, REST APIs, database architecture, and business systems. I enjoy creating software that's practical, maintainable, and built with long-term growth in mind.
+
+Outside of coding, you'll usually find me watching anime, exploring Linux, or experimenting with new technologies.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ⚔️ Acquired Skills
+
+### Languages
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Frameworks
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Database
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+
+### Tools
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏙️ Constructed Projects
+
+### 🏥 Barangay Health Center Information System
+
+```
+Status      : Completed
+Purpose     : Healthcare Management
+```
+
+✔ Patient Management
+
+✔ Prenatal Monitoring
+
+✔ Family Planning
+
+✔ Immunization Tracking
+
+✔ Dashboard Analytics
+
+✔ Statistical Reports
 
 ---
 
-## ⚔️ Current Game Plan — Active Quests
-◈ QUEST LOG ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+### 🏢 HRIS SaaS Platform
 
-▓▓▓▓▓▓▓▓▓░   Building scalable SaaS systems              [In Progress]
+```
+Status      : In Progress
+Purpose     : Business Management
+```
 
-▓▓▓▓▓▓▓░░░   Monolith → Microservices architecture       [In Progress]
+✔ Employee Management
 
-▓▓▓▓▓▓░░░░   Custom automation engine (n8n-style 👀)     [In Progress]
+✔ Payroll
 
-▓▓▓▓▓▓▓▓░░   Deepening system design mastery             [In Progress]
+✔ Attendance
 
-▓▓▓▓░░░░░░   Mastering the dark arts of DevOps           [Ongoing]
+✔ Leave Management
 
-◈━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━◈
+✔ Reports
 
----
-
-## 🏆 Hall of the Aegis — Achievements
-
-<div align="center">
-
-| 🏅 | Achievement | Citation |
-|:---:|---|---|
-| 🥇 | **Production Slayer** | Built and shipped full-stack systems that survive real traffic |
-| 🧠 | **Architect of the Ancients** | System design thinker — monolith-to-microservice mindset |
-| ⚡ | **Fast Farmer** | Fast learner, fast shipper. No idle farming tolerated |
-| 🛡️ | **Pos. 5 Coder** | Defensive code, edge cases handled, teammates' backs always covered |
-| 🗺️ | **Map Controller** | Vision beyond the immediate sprint — always planning ahead |
-| 🔮 | **The Invoker's Discipline** | Mastering multiple stacks — never a one-trick hero |
-
-</div>
+✔ Multi-company Architecture
 
 ---
 
-## 🤝 Draft Me Into Your Team
+### 📱 Flutter Applications
+
+REST API-driven mobile applications built using Flutter and Laravel.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📊 Great Sage Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=amabee&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amabee&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=amabee&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 📈 Activity Analysis
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=amabee&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🏆 Achievements
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=amabee&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# 🐍 Evolution Record
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/amabee/amabee/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+# ⚡ Side Quests
+
+- 🎌 Anime enjoyer
+- 🐧 Linux user
+- ☕ Coffee-powered developer
+- 🎮 Casual gamer
+- 💠 Backend-first mindset
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-amabee-D4AF37?style=for-the-badge&logo=github&logoColor=D4AF37&labelColor=0d0520)](https://github.com/amabee)
-&nbsp;&nbsp;
-[![Email](https://img.shields.io/badge/cyberkiller.ck@gmail.com-D4AF37?style=for-the-badge&logo=gmail&logoColor=D4AF37&labelColor=0d0520)](mailto:cyberkiller.ck@gmail.com)
+### 「Analysis Complete.」
 
-*"Whether it's a startup's core infrastructure or a moonshot side quest — I show up, I draft well, and I win."*
+> *Continue evolving.*
 
-</div>
-
----
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%"/>
-
-
-<div align="center">
-
-## 🧙‍♂️ The Invoker's Closing Rite
-
-> *"A good developer farms code.*
-> *A great developer controls the map.*
-> **A legendary developer — shapes the meta."**
-
-<br/>
-
-⭐ *Starring a repo is like giving the Aegis after a clutch fight. Small gesture. Means everything.*
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7B2FBE,35:3d1070,65:1a0535,100:070312&height=140&section=footer" width="100%"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3500&pause=1000&color=5BC0EB&center=true&vCenter=true&width=420&lines=Building+better+software...;One+commit+at+a+time.;Thanks+for+visiting!"/>
 
 </div>

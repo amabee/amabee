@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExanBma2Q2cnc5b2Y3NXh0aXAzMmlvaGk5djNhaXM3dGJsdGs0Y3FqdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VUC9YdLSnKuJy/giphy.gif" width="720"/>
 
-# 💠 Great Sage Report
+# 💠 Yahallo!
 
 ```
 Analysis Complete.
